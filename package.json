@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-opentable-es5",
+  "version": "0.0.1",
+  "description": "Standard eslint for opentable es5 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opentable/eslint-config-opentable-es5.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "steve higgs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opentable/eslint-config-opentable-es5/issues"
+  },
+  "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme"
+}

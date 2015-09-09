@@ -10,5 +10,5 @@ for more information.
 
 ## Changelog
 
-### 1.0.0
+### 0.0.1
  - initial release
