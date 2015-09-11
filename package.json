@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-opentable-es5",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Standard eslint for opentable es5 projects",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "eslint"
   ],
   "author": "steve higgs",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/opentable/eslint-config-opentable-es5/issues"
   },
