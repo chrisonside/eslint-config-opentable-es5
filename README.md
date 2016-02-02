@@ -10,6 +10,9 @@ This package provides a standard Opentable .eslintrc as an extensible shared con
 
 ## Changelog
 
+### 0.1.1
+ - reorganize, add ES6/ES7 rules
+
 ### 0.0.2
  - add usage notes to readme
 
