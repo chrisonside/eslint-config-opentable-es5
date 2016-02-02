@@ -10,7 +10,7 @@ This package provides a standard Opentable .eslintrc as an extensible shared con
 
 ## Changelog
 
-### 0.1.1
+### 0.1.2
  - add .npmrc for artifactory deploys
 
 ### 0.1.1
