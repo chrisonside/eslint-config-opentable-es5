@@ -1,6 +1,6 @@
 # eslint-config-opentable-es5
 
-This package provides a standard Opentable .eslintrc as an extensible shared config. It's roughly built around airbnbs style guide.
+This package provides a standard Opentable .eslintrc as an extensible shared config. It's built around airbnbs style guide
 
 Requires eslint v2.
 
@@ -17,6 +17,9 @@ If using babel:
 add `"parser": "babel-eslint"` to your .eslintrc
 
 ## Changelog
+
+### 0.2.0
+ - remove parser from eslint, upgrade rules to 2.0
 
 ### 0.1.2
  - add .npmrc for artifactory deploys
