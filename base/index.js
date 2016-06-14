@@ -21,7 +21,13 @@ module.exports = {
     "templateStrings": true,
     "jsx": false
   },
+  "plugins": ['mocha-only'],
   "rules": {
+/**
+ * If only is present in test, complain
+ */
+    "mocha-only/mocha-only": "error",
+
 /**
  * Strict mode
  */

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/opentable/eslint-config-opentable-es5/issues"
   },
-  "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme"
+  "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme",
+  "peerDependencies": {
+    "eslint-plugin-mocha-only": "0.0.3"
+  }
 }
