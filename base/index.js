@@ -1,8 +1,10 @@
 module.exports = {
   "env": {
     "browser": true,
-    "node": true
+    "node": true,
+    "es6": true
   },
+  "ecmaVersion": 7,
   "ecmaFeatures": {
     "arrowFunctions": true,
     "blockBindings": true,
@@ -21,12 +23,12 @@ module.exports = {
     "templateStrings": true,
     "jsx": false
   },
-  "plugins": ['mocha-only'],
+  "plugins": ['mocha'],
   "rules": {
 /**
  * If only is present in test, complain
  */
-    "mocha-only/mocha-only": "error",
+    "mocha-only/no-exclusive-tests": 2,
 
 /**
  * Strict mode

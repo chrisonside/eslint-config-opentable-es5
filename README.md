@@ -18,6 +18,11 @@ add `"parser": "babel-eslint"` to your .eslintrc
 
 ## Changelog
 
+### 0.4.0
+ - env explicitly set to es6
+ - ecmaVersion set to 7
+ - eslint-plugin-mocha-only replaced by eslint-plugin-mocha
+
 ### 0.2.0
  - remove parser from eslint, upgrade rules to 2.0
 
