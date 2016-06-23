@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-opentable-es5",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Standard eslint for opentable es5 projects",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme",
   "peerDependencies": {
-    "eslint-plugin-mocha-only": "0.0.3"
+    "eslint-plugin-mocha": "3.0.0"
   }
 }
