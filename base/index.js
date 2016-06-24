@@ -28,7 +28,7 @@ module.exports = {
 /**
  * If only is present in test, complain
  */
-    "mocha-only/no-exclusive-tests": 2,
+    "mocha/no-exclusive-tests": 2,
 
 /**
  * Strict mode
