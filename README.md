@@ -18,6 +18,9 @@ add `"parser": "babel-eslint"` to your .eslintrc
 
 ## Changelog
 
+### 0.5.0
+ - added object-shorthand and prefer-const rules
+
 ### 0.4.0
  - env explicitly set to es6
  - ecmaVersion set to 7
