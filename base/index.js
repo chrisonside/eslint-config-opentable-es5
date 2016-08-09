@@ -41,6 +41,8 @@ module.exports = {
  * ES6
  */
     "no-var": 2,                     // http://eslint.org/docs/rules/no-var
+    "object-shorthand": 2,           // http://eslint.org/docs/rules/object-shorthand
+    "prefer-const": 2,               // http://eslint.org/docs/rules/prefer-const
 
 /**
  * Variables
