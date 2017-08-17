@@ -80,6 +80,7 @@ module.exports = {
     "no-unreachable": 2,             // http://eslint.org/docs/rules/no-unreachable
     "use-isnan": 2,                  // http://eslint.org/docs/rules/use-isnan
     "block-scoped-var": 2,           // http://eslint.org/docs/rules/block-scoped-var
+    "handle-callback-err": ["error", "^(err|error)$"],
 
 /**
  * Best practices
