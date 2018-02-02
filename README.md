@@ -2,7 +2,8 @@
 
 This package provides a standard Opentable .eslintrc as an extensible shared config. It's built around airbnbs style guide
 
-Requires eslint v2.
+Requires `eslint`, `^2.0.0 || ^3.0.0`
+Requires `eslint-plugin-mocha`, `^3.0.0 || ^4.0.0`
 
 ## Usage
 
@@ -17,6 +18,11 @@ If using babel:
 add `"parser": "babel-eslint"` to your .eslintrc
 
 ## Changelog
+
+### 0.7.0
+ - added support for `eslint-plugin-mocha` `v4`.
+### 0.6.0
+ - add new rule: error callbacks must be handled.
 
 ### 0.5.0
  - added object-shorthand and prefer-const rules
