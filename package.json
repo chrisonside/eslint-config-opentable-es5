@@ -13,13 +13,13 @@
   "keywords": [
     "eslint"
   ],
-  "author": "steve higgs",
+  "author": "Search Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/opentable/eslint-config-opentable-es5/issues"
   },
   "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme",
   "peerDependencies": {
-    "eslint-plugin-mocha": "^3.0.0 || ^4.0.0"
+    "eslint-plugin-mocha": "^5.0.0"
   }
 }
