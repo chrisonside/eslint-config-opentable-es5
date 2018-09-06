@@ -19,8 +19,10 @@ add `"parser": "babel-eslint"` to your .eslintrc
 
 ## Changelog
 
-### 0.8.0
+### 1.1.0
  - removed a deprecated option.
+### 1.0.0
+ - moved to eslint 4
 ### 0.7.0
  - added support for `eslint-plugin-mocha` `v4`.
 ### 0.6.0
