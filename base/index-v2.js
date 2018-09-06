@@ -237,14 +237,13 @@ module.exports = {
   },
   "plugins": ["mocha"],
   "parserOptions": {
-    "ecmaVersion": 2017,
+    "ecmaVersion": 2018,
     "ecmaFeatures": {
       "arrowFunctions": true,
       "blockBindings": true,
       "classes": true,
       "defaultParams": true,
       "destructuring": true,
-      "experimentalObjectRestSpread": true,
       "forOf": true,
       "generators": false,
       "jsx": false,
