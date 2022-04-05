@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-opentable-es5",
-  "version": "1.1.1",
+  "name": "@opentable/eslint-config-opentable-es5",
+  "version": "2.0.0",
   "description": "Standard eslint for opentable es5 projects",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/opentable/eslint-config-opentable-es5.git"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.otenv.com/artifactory/api/npm/npm-opentable"
   },
   "keywords": [
     "eslint"

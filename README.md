@@ -1,4 +1,4 @@
-# eslint-config-opentable-es5
+# @opentable/eslint-config-opentable-es5
 
 This package provides a standard Opentable .eslintrc as an extensible shared config. It's built around airbnbs style guide
 
@@ -8,10 +8,10 @@ Requires `eslint-plugin-mocha`, `^3.0.0 || ^4.0.0`
 ## Usage
 
 ```shell
-npm install --save-dev eslint-config-opentable-es5
+npm install --save-dev @opentable/eslint-config-opentable-es5
 ```
 
-add `"extends": "eslint-config-opentable-es5"` to your .eslintrc
+add `"extends": "@opentable/eslint-config-opentable-es5"` to your .eslintrc
 
 If using babel:
 
